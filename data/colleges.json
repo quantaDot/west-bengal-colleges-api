@@ -1,0 +1,23 @@
+{
+    "status":true,
+    "data":[
+        {
+            "name":"Acharya Girish Chandra Bose College",
+            "location":"Kolkata",
+            "affiliation":"University Of Calcutta",
+            "establishment":"1964"
+        },
+        {
+            "name":"Acharya Jagadish Chandra Bose College",
+            "location":"Kolkata",
+            "affiliation":"University Of Calcutta",
+            "establishment":"1987"
+        },
+        {
+            "name":"Al Ameen Memorial Minority College",
+            "location":"Baruipur, North 24 Pargana",
+            "affiliation":"University Of Calcutta",
+            "establishment":"2004"
+        }
+    ]
+}

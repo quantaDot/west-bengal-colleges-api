@@ -1,0 +1,23 @@
+{
+    "status":true,
+    "data":[
+        {
+            "name":"Visva-Bharati University",
+            "location":"Santiniketan (Bolpur), Birbhum",
+            "type":"Central University",
+            "establishment":"1921"
+        },
+        {
+            "name":"Indian Institute of Management Calcutta",
+            "location":"Joka, Kolkata",
+            "type":"Autonomous",
+            "establishment":"1961"
+        },
+        {
+            "name":"Indian Institute of Science Education and Research, Kolkata",
+            "location":"Haringhata, Nadia",
+            "type":"Autonomous",
+            "establishment":"2006"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "clg-api",
+  "version": "1.0.0",
+  "description": "College Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Qdot",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
