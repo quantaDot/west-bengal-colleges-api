@@ -70,6 +70,20 @@
             "type":"Autonomous",
             "establishment":"2019",
             "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/All_India_Institute_of_Medical_Sciences%2C_Kalyani.png/220px-All_India_Institute_of_Medical_Sciences%2C_Kalyani.png"
+        },
+        {
+            "name":"All India Institute of Hygiene and Public Health",
+            "location":"Kolkata",
+            "type":"Research Institute",
+            "establishment":"1932",
+            "logo":"https://upload.wikimedia.org/wikipedia/en/4/43/All_India_Institute_of_Hygiene_and_Public_Health_Logo.png"
+        },
+        {
+            "name":"Indian Association for the Cultivation of Science",
+            "location":"Kolkata",
+            "type":"Research Institute",
+            "establishment":"1876",
+            "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Indian_Association_for_the_Cultivation_of_Science_Logo.svg/220px-Indian_Association_for_the_Cultivation_of_Science_Logo.svg.png"
         }
     ]
 }
