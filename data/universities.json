@@ -21,6 +21,55 @@
             "type":"Autonomous",
             "establishment":"2006",
             "logo":"https://www.iiserkol.ac.in/static/ss13ms110/images/IISER-K_Logo.png"
+        },
+        {
+            "name":"Indian Statistical Institute",
+            "location":"Baranagar, North 24 Pargana",
+            "type":"Autonomous",
+            "establishment":"1959",
+            "logo":"https://www.isical.ac.in/sites/all/themes/isk_main/logo.png"
+        },
+        {
+            "name":"Indian Institute of Technology Kharagpur",
+            "location":"Kharagpur, Paschim Medinipur",
+            "type":"Autonomous",
+            "establishment":"1951",
+            "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/IIT_Kharagpur_Logo.svg/268px-IIT_Kharagpur_Logo.svg.png"
+        },
+        {
+            "name":"Indian Institute of Engineering Science and Technology, Shibpur",
+            "location":"Shibpur, Howrah",
+            "type":"Autonomous",
+            "establishment":"1856",
+            "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/IIEST_Shibpur_Logo.svg/220px-IIEST_Shibpur_Logo.svg.png"
+        },
+        {
+            "name":"Indian Institute of Information Technology, Kalyani",
+            "location":"Kalyani, Nadia",
+            "type":"Autonomous",
+            "establishment":"2014",
+            "logo":"http://iiitkalyani.ac.in/images/front-page/logo/l2.png"
+        },
+        {
+            "name":"National Institute of Technology, Durgapur",
+            "location":"Durgapur, Paschim Bardhaman",
+            "type":"Autonomous",
+            "establishment":"1960",
+            "logo":"https://nitdgp.ac.in/front/assets/images/logo.png"
+        },
+        {
+            "name":"National Institute of Pharmaceutical Education and Research, Kolkata",
+            "location":"Kolkata",
+            "type":"Autonomous",
+            "establishment":"2007",
+            "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/1/12/National_Institute_of_Pharmaceutical_Education_and_Research%2C_Kolkata_Logo.png/220px-National_Institute_of_Pharmaceutical_Education_and_Research%2C_Kolkata_Logo.png"
+        },
+        {
+            "name":"All India Institute of Medical Sciences, Kalyani",
+            "location":"Kalyani, Nadia",
+            "type":"Autonomous",
+            "establishment":"2019",
+            "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/All_India_Institute_of_Medical_Sciences%2C_Kalyani.png/220px-All_India_Institute_of_Medical_Sciences%2C_Kalyani.png"
         }
     ]
 }
