@@ -84,6 +84,41 @@
             "type":"Research Institute",
             "establishment":"1876",
             "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Indian_Association_for_the_Cultivation_of_Science_Logo.svg/220px-Indian_Association_for_the_Cultivation_of_Science_Logo.svg.png"
+        },
+        {
+            "name":"Chittaranjan National Cancer Institute",
+            "location":"Kolkata",
+            "type":"Research Institute",
+            "establishment":"1950",
+            "logo":"https://upload.wikimedia.org/wikipedia/en/3/32/Chittaranjan_National_Cancer_Institute_%28Logo%29.png"
+        },
+        {
+            "name":"National Institute of Research on Jute and Allied Fibre Technology",
+            "location":"Kolkata",
+            "type":"Research Institute",
+            "establishment":"1938",
+            "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/4/45/National_Institute_of_Research_on_Jute_and_Allied_Fibre_Technology.svg/800px-National_Institute_of_Research_on_Jute_and_Allied_Fibre_Technology.svg.png"
+        },
+        {
+            "name":"National Institute of Cholera and Enteric Diseases",
+            "location":"Kolkata",
+            "type":"Research Institute",
+            "establishment":"1962",
+            "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/National_Institute_of_Cholera_and_Enteric_Diseases_Logo.png/270px-National_Institute_of_Cholera_and_Enteric_Diseases_Logo.png"
+        },
+        {
+            "name":"National Institute of Biomedical Genomics",
+            "location":"Kalyani",
+            "type":"Research Institute",
+            "establishment":"2009",
+            "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/National_Institute_of_Biomedical_Genomics.svg/330px-National_Institute_of_Biomedical_Genomics.svg.png"
+        },
+        {
+            "name":"Central Sericultural Research and Training Institute",
+            "location":"Berhampore",
+            "type":"Research Institute",
+            "establishment":"1943",
+            "logo":"https://upload.wikimedia.org/wikipedia/en/6/6b/Central_Sericultural_Research_and_Training_Institute_logo.png"
         }
     ]
 }
